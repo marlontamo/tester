@@ -1,6 +1,12 @@
+<<<<<<< HEAD
+body{
+    background-color: red;
+    border:1px solid #000;
+=======
 h1{
     color:#fff;
 }
 p{
     font-weight: 800;
+>>>>>>> 5d40e2a9153aa3183ce8fdf11cdc0484964a41ac
 }
